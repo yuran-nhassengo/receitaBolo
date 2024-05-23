@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: rgb(247, 246, 246);
+}
+
+
+header >h1{
+    text-align: center;
+    color: rgb(189, 120, 24);
+    font-size: 3rem;
+    border: 2px solid  rgb(189, 120, 24);
+}
+
+main > section > figure > img{
+    width: 30%;
+    height: 30%;
+    margin: 2rem 2rem;
+}
+
+section h2 {
+    font-size: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(189, 120, 24);
+    border: 2px solid  rgb(189, 120, 24);
+}
+
+div >h3{
+    font-size: 2rem;
+}
+
+section > section {
+    display: inline-block   ;
+    width: 32rem;
+}
+
+section > .cobetura{
+    display: inline-block;
+    height: 6rem;
+}
+
+ol{
+    margin-left: 2rem;
+}
+
+
+
+li{
+    font-size: 1.5rem;
+}
+
+.espera{
+    margin: 1rem 2rem 1rem;
+    margin-left: 2rem;
+    color: rgb(255, 57, 57);
+    font-size: 1.5rem;
+}
+
+
+footer {
+    position: relative;
+    border: 2px solid  rgb(189, 120, 24);
+    background-color:rgb(189, 120, 24,0.7) ;
+    padding: 2rem;
+    
+}
+
+.redes >img{
+    width: 2rem;
+}
+
+
+.contacto{
+    position:absolute;
+    top: 2rem;
+    left: 90vw;
+}
+
+.email{
+    position: absolute;
+    top: 2rem;
+    left: 50vw;
+}
+
+footer h2{
+    color: white;
+}
+
+footer p{
+    font-size: 1.5rem;
+}
+
+
